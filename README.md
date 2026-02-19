@@ -1,5 +1,5 @@
 # Private Audio Transcriber with Translation Experiments
-My experiments with adding a translation feature to the Private Audio Transcriber Console
+My experiments with adding a translation feature to the Private Audio Transcriber Console. The goal is to build intuition and gain practical experience.
 
 - Testing different translation models
 - Trying different architectures for local deployment - MLX, Ollama and hybrid approaches

@@ -1,6 +1,9 @@
 # Private Audio Transcriber with Translation Experiments
 My experiments with adding a translation feature to the Private Audio Transcriber Console
 
+- Testing different translation models
+- Trying different architectures for local deployment - MLX, Ollama and hybrid approaches
+  
 Original Private Audio Transcriber Console project:<br>
 https://github.com/vbookshelf/Private-Audio-Transcriber-Console
 

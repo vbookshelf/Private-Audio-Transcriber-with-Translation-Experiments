@@ -1,5 +1,9 @@
 # Private Audio Transcriber with Translation Experiments
-My experiments with adding a translation feature to the Private Audio Transcriber
+My experiments with adding a translation feature to the Private Audio Transcriber Console
+
+Original Private Audio Transcriber Console project:<br>
+https://github.com/vbookshelf/Private-Audio-Transcriber-Console
+
 
 <br>
 

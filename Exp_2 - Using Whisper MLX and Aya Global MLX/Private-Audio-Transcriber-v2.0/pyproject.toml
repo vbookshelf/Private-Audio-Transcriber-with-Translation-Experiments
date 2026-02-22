@@ -1,0 +1,13 @@
+[project]
+name = "Private-Audio-Transcriber"
+version = "2.0"
+description = "An offline transcription and dictation tool for Mac."
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "huggingface-hub==1.4.1",
+    "mlx-lm==0.30.6",
+    "flask==3.1.2",
+    "mlx-whisper==0.4.3",
+]
+
